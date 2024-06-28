@@ -1,3 +1,5 @@
+## Algorithms for muography analysis
+
 This repository contains the code used for muography analysis.
 It includes the algorithms to:
 -  Calculate the detector's efficiency
